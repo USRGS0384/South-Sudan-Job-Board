@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE files (e.g., VS Code, Sublime Text)
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Dependencies installed through package managers (if you use them later)
+package-lock.json
+yarn.lock
+
+# Build output folders (e.g., for build processes or static assets)
+dist/
+build/
